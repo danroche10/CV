@@ -55,7 +55,7 @@ As an avid runner, I have completed a marathon in 3 hours 13 minutes and a half-
 Last year I read 50 books, details of which you can see here. I also read a variety of blogs and online articles.
 
 ## Contact
-Github: danroche10
-Twitter: @DanRoche01
-Hackerrank: https://www.hackerrank.com/danielroche10
-Personal wesbite: danroche.co.uk
+- Github: danroche10
+- Twitter: @DanRoche01
+- Hackerrank: https://www.hackerrank.com/danielroche10
+- Personal wesbite: danroche.co.uk
