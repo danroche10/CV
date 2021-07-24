@@ -54,7 +54,7 @@ That in some arguable way make you a better software developer or well-rounded p
 As an avid runner, I have completed a marathon in 3 hours 13 minutes and a half-marathon in 1 hour 25 minutes.
 Last year I read 50 books, details of which you can see here. I also read a variety of blogs and online articles.
 
-Contact
+## Contact
 Github: danroche10
 Twitter: @DanRoche01
 Hackerrank: https://www.hackerrank.com/danielroche10
