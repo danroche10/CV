@@ -6,7 +6,7 @@ Having taught myself SQL in a previous job, I decided to embark upon a career ch
 | Name                         | Description                                                             | Tech/tools                           |
 | ---------------------------- | ----------------------------------------------------------------------- | ------------------------------------ |
 | **Final project**            | A webapp to do x.                                                       | React, Jest, etc.                    |
-| **Leyendo v2**               | Provides readers with access to the best writing across the internet..  | React, node.js, MongoDB              |
+| **Leyendo v2**               | Provides readers with access to the best writing across the internet..  | React, node.js, MongoDB            |
 
 ## Work Experience
 
@@ -24,37 +24,6 @@ _Supply Chain Executive & Supply Network Planner_
 - Led weekly ‘demand and supply review’, challenging sales team on forecasting and driving actions. Worked closely with an external programmer to build a new automated production planner.
 
 **Buzzhire** (Jan 2016 to Oct 2016)
-
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -84,3 +53,9 @@ That in some arguable way make you a better software developer or well-rounded p
 
 As an avid runner, I have completed a marathon in 3 hours 13 minutes and a half-marathon in 1 hour 25 minutes.
 Last year I read 50 books, details of which you can see here. I also read a variety of blogs and online articles.
+
+Contact
+Github: danroche10
+Twitter: @DanRoche01
+Hackerrank: https://www.hackerrank.com/danielroche10
+Personal wesbite: danroche.co.uk
