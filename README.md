@@ -25,6 +25,10 @@ _Supply Chain Executive & Supply Network Planner_
 
 **Buzzhire** (Jan 2016 to Oct 2016)
 
+- On-demand temporary staffing platform. Initially the role focused on client acquisition and building a new vertical, before evolving into client operations. Enhanced my sales skills and my ability to analyse and interpret data. 
+- Grew monthly revenue from zero to £5k per week during the first four months. Then achieved client retention of 70% MoM. Worked with CTO to implement new features such as variable pricing and geographical restrictions.
+
+
 ## Education
 
 #### Makers Academy (June 2021 October 2021)
