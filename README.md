@@ -1,6 +1,6 @@
 ## Dan Roche
 
-Having taught myself SQL in a previous job, I decided to embark upon a career change and immersed myself in web development. I am passionate about using technology build icnredible products and bring the world closer together.
+In 2019, I became fascinated with the internet and the opportunities that it could present to people across the globe. During this time, I was also teaching myself SQL at work and loved using to solve complex problems. I decided to marry these two interests and left my job to learn more about coding and build some projects that I found intesting. This fascinating journey led me to work at a insurtech startup for three months and most recently to Makers Academy where I have rigourously learnt the fundamentals of programming and built some exciting projects such as the ones listed below.
 ## Projects
 
 | Name                         | Description                                                             | Tech/tools                           |
@@ -27,6 +27,7 @@ _Supply Chain Executive & Supply Network Planner_
 - Led weekly ‘demand and supply review’, challenging sales team on forecasting and driving actions. Worked closely with an external programmer to build a new automated production planner.
 
 **Buzzhire** (Jan 2016 to Oct 2016)
+_Operations Manager_
 
 - Buzzhire is an on-demand temporary staffing platform. Initially the role focused on client acquisition and building a new vertical, before evolving into client operations. Enhanced my sales skills and my ability to analyse and interpret data. 
 - Grew monthly revenue from zero to £5k per week during the first four months. Then achieved client retention of 70% MoM. Worked with CTO to implement new features such as variable pricing and geographical restrictions.
@@ -45,7 +46,7 @@ _Supply Chain Executive & Supply Network Planner_
 
 - BSc (Hons) Economics – 2:1
 
-### Dame Alice Owen’s School (2003 - 2010)                                                                                                                                        
+#### Dame Alice Owen’s School (2003 - 2010)                                                                                                                                        
 - A-Levels: Mathematics (A*), Economics (A), Physics (A); AS levels: Further Mathematics (A), Chemistry (A)
 - GCSEs: 4 A*’s, 6 A’s	
 
