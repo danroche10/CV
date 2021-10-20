@@ -1,4 +1,4 @@
-## Dan
+## Dan Roche
 
 Having taught myself SQL in a previous job, I decided to embark upon a career change and immersed myself in web development. I am passionate about using technology build icnredible products and bring the world closer together.
 ## Projects
@@ -35,13 +35,11 @@ _Supply Chain Executive & Supply Network Planner_
 ## Education
 
 #### Makers Academy (June 2021 October 2021)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Became proficient in Ruby and Javascript completing a wide range of projects in both languages (both vanilla and withing framworks).
+- Learnt about the core principles of OOP and became familiar with the four pillars. Used this knowledge when modelling and then building applocations.
+- Followed a TDD approach when building applications using RSpec, Jasmine and Cypress for feature testing. Continuously sought feedback on: testing behaviour and not implementation, using private methods for implementation, dependency injection principle and isolating tests using mocks/spies.
+- Built Node.js backend from scratch for several projects solidfying my knowledge of MVC architecture. Did self-directed learning on separation of model into database logic and business logic. 
+- Spent a lot of time pair programming enabling improvement in communication when explaining code, thought process and bug fixing.
 
 #### University of Bath (2011 to 2015)
 
@@ -58,7 +56,7 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 As an avid runner, I have completed a marathon in 3 hours 13 minutes and a half-marathon in 1 hour 25 minutes.
-Last year I read 50 books, details of which you can see here. I also read a variety of blogs and online articles.
+I spend a lot of my free time reading and log each book I read on goodreads: https://www.goodreads.com/review/list/60295249?shelf=read
 
 ## Contact
 - Github: danroche10
