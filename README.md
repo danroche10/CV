@@ -56,7 +56,7 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 As an avid runner, I have completed a marathon in 3 hours 13 minutes and a half-marathon in 1 hour 25 minutes.
-I spend a lot of my free time reading and log each book I read on goodreads: https://www.goodreads.com/review/list/60295249?shelf=read
+I spend a lot of my free time reading and log each book I read on goodreads: [here](https://www.goodreads.com/review/list/60295249?shelf=read)
 
 ## Contact
 - Github: danroche10
