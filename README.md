@@ -1,31 +1,34 @@
-## Your Name
+## Dan
 
 Having taught myself SQL in a previous job, I decided to embark upon a career change and immersed myself in web development. I am passionate about using technology build icnredible products and bring the world closer together.
 ## Projects
 
 | Name                         | Description                                                             | Tech/tools                           |
 | ---------------------------- | ----------------------------------------------------------------------- | ------------------------------------ |
-| **Final project**            | A webapp to do x.                                                       | React, Jest, etc.                    |
-| **Leyendo v2**               | Provides readers with access to the best writing across the internet..  | React, node.js, MongoDB            |
-
+| **Chitter Clone**            | Users can post, comment and like 'peeps' + log in and out               | Node, Express, Jasmine, Cypress, JS  |
+| **Bowling score card**       | App scores a game of bowling including strikes, spares and perfect game | Javascript, Jasmine, Cypress         |    
+| **Bank tech test**           | Create acccount, deposit/withdraw money and print statement with balance| Javascript, Jasmine, Cypress         |             
 ## Work Experience
 
 **By Bits** (Feb 2021 to June 2021)  
 _Junior Developer_
 
-- Used CSS, HTML and JS in a fast-moving start-up environment. Also worked with React, Node.js, PostgreSQL and github. Made various API requests on the frontend and interacted with the JSON body to enable users to update their policies.
-- Tasks included: writing tests for API endpoints, additions and improvements to company website, building flows for the customer application and ad-hoc tasks    across the different repos. Actively sought feedback to identify and rectify any knowledge gaps.
+- Built tools for pay-per-mile car insurance in a fast-moving start-up environment. Updated main Node.js APIs and wrote tests in Jest. Used Postman to test endpoints and visualise JSON responses.
+- Worked with React on the front-end, implementing user flows and managing state between each step. Made HTTP requests to the APIs and used JSON responses in user flow.
+- Used PostgreSQL to interact with the databases when necessary. Learnt about foreign key constraint, testing databases and different environments.
+- Other ad-hoc tasks included CSS changes, templating and content changes to company website.
+- Used github for version control and became familiar with branches, merging and pull requests.
 
 
 **itsu [grocery]** (Dec 2016 to Apr 2020)  
 _Supply Chain Executive & Supply Network Planner_
 
-- After teaching myself SQL, I introduced it into the business to create a sales dashboard, a new service level tracker and an invoice tracker. Resulted in significant process improvement for multiple teams.
+- After teaching myself SQL, I introduced it into the business to create a sales dashboard, a new service level tracker and an invoice tracker. Resulted in many hours being saved per week across multiple teams.
 - Led weekly ‘demand and supply review’, challenging sales team on forecasting and driving actions. Worked closely with an external programmer to build a new automated production planner.
 
 **Buzzhire** (Jan 2016 to Oct 2016)
 
-- On-demand temporary staffing platform. Initially the role focused on client acquisition and building a new vertical, before evolving into client operations. Enhanced my sales skills and my ability to analyse and interpret data. 
+- Buzzhire is an on-demand temporary staffing platform. Initially the role focused on client acquisition and building a new vertical, before evolving into client operations. Enhanced my sales skills and my ability to analyse and interpret data. 
 - Grew monthly revenue from zero to £5k per week during the first four months. Then achieved client retention of 70% MoM. Worked with CTO to implement new features such as variable pricing and geographical restrictions.
 
 
@@ -43,7 +46,6 @@ _Supply Chain Executive & Supply Network Planner_
 #### University of Bath (2011 to 2015)
 
 - BSc (Hons) Economics – 2:1
-- Other cool stuff
 
 ### Dame Alice Owen’s School (2003 - 2010)                                                                                                                                        
 - A-Levels: Mathematics (A*), Economics (A), Physics (A); AS levels: Further Mathematics (A), Chemistry (A)
@@ -62,4 +64,3 @@ Last year I read 50 books, details of which you can see here. I also read a vari
 - Github: danroche10
 - Twitter: @DanRoche01
 - Hackerrank: https://www.hackerrank.com/danielroche10
-- Personal wesbite: danroche.co.uk
