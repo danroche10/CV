@@ -6,7 +6,7 @@ In 2019, I became fascinated with the internet and the opportunities that it cou
 | Name                         | Description                                                             | Tech/tools                           |
 | ---------------------------- | ----------------------------------------------------------------------- | ------------------------------------ |
 | **chitter-v2**               | Authenticated users can post, comment and like 'peeps'.                 | Node, Express, Jasmine, Cypress, JS  |
-| **bowling-challenge**        | App scores a game of bowling including strikes, spares and perfect game | Javascript, Jasmine                  |    
+| **bowling-challenge-JS**     | App scores a game of bowling including strikes, spares and perfect game | Javascript, Jasmine                  |    
 | **bank-tech-test**           | Create acccount, deposit/withdraw money and print statement with balance| Javascript, Jasmine        |             
 ## Work Experience
 
