@@ -3,11 +3,12 @@
 In 2019, I became fascinated with the internet and the opportunities that it could present to people across the globe. During this time, I was also teaching myself SQL at work and loved using it to solve complex problems. I decided to marry these two interests and left my job to learn more about coding and build some interesting projects. This fascinating journey led me to work at a insurtech startup for three months and most recently to Makers Academy. At Makers I rigourously learnt the fundamentals of programming and built some exciting projects such as the ones listed below.
 ## Projects
 
-| Name                         | Description                                                             | Tech/tools                           |
-| ---------------------------- | ----------------------------------------------------------------------- | ------------------------------------ |
-| **chitter-v2**               | Authenticated users can post, comment and like 'peeps'.                 | Node, Express, Jasmine, Cypress, JS  |
-| **bowling-challenge-JS**     | App scores a game of bowling including strikes, spares and perfect game | Javascript, Jasmine                  |    
-| **bank-tech-test**           | Create acccount, deposit/withdraw money and print statement with balance| Javascript, Jasmine        |             
+|Project        |Description                                           |Technologies              |
+|----------|------------------------------------------------------|----------------------------------------|
+|[chitter-v2](https://github.com/danroche10/chitter-v2)|Authenticated users can post, comment and like 'peeps'. .<br><br> Deployed at: https://shrouded-savannah-60836.herokuapp.com/ | Node, Express, Jasmine, Cypress, JS |
+|[bowling-challenge-JS](https://github.com/danroche10/bowling-challenge-JS)|App scores a game of bowling including strikes, spares and perfect game | Javascript, Jasmine |
+|[bank-tech-test](https://github.com/danroche10/bank-tech-test)|Create acccount, deposit/withdraw money and print statement with balance | Javascript, Jasmine |
+        
 ## Work Experience
 
 **By Bits** (Feb 2021 to June 2021)  
