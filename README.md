@@ -1,6 +1,6 @@
 ## Dan Roche
 
-[Projects](#projects) | [Work Experience](#work experience) | [Education](#education) | [Hobbies](#hobbies) |
+[Projects](#projects) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies) |
 
 In 2019, I became fascinated with the internet and the opportunities that it could present to people across the globe. During this time, I was also teaching myself SQL at work and loved using it to solve complex problems. I decided to marry these two interests and left my job to learn more about coding and build some interesting projects. This fascinating journey led me to work at a insurtech startup for three months and most recently to Makers Academy. At Makers I rigourously learnt the fundamentals of programming and built some exciting projects such as the ones listed below.
 ## Projects
