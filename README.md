@@ -7,7 +7,7 @@ In 2019, I became fascinated with the internet and the opportunities that it cou
 
 |Project        |Description                                           |Technologies              |
 |----------|------------------------------------------------------|----------------------------------------|
-|[chitter-v2](https://github.com/danroche10/chitter-v2)|Authenticated users can post, comment and like 'peeps'. .<br><br> Deployed at: https://shrouded-savannah-60836.herokuapp.com/ | Node, Express, Jasmine, Cypress, JS |
+|[chitter-v2](https://github.com/danroche10/chitter-v2)|Authenticated users can post, comment and like 'peeps'. .<br><br> Click [here](https://shrouded-savannah-60836.herokuapp.com/) for live version! | Node, Express, Jasmine, Cypress, JS |
 |[bowling-challenge-JS](https://github.com/danroche10/bowling-challenge-JS)|App scores a game of bowling including strikes, spares and perfect game | Javascript, Jasmine |
 |[bank-tech-test](https://github.com/danroche10/bank-tech-test)|Create acccount, deposit/withdraw money and print statement with balance | Javascript, Jasmine |
         
@@ -22,7 +22,7 @@ _Junior Developer_
 
 **Coding and building projects** (May 2020 to Jan 2021)  
 
-- Spent time learning about coding and lots of other things. Built a full-stack project called |[Leyendo](https://cocky-easley-edf596.netlify.app/Sam%20Altman) which enables users to find their favourite essays from across the the internet.
+- Spent time learning about coding and lots of other things. Built a full-stack project called [Leyendo](https://cocky-easley-edf596.netlify.app/Sam%20Altman) which enables users to find their favourite essays from across the the internet.
 
 **itsu [grocery]** (Dec 2016 to Apr 2020)  
 _Supply Chain Executive & Supply Network Planner_
@@ -61,4 +61,4 @@ I spend a lot of my free time reading and review each book I read on [goodreads.
 ## Contact
 - Github: danroche10
 - Twitter: @DanRoche01
-- Hackerrank: https://www.hackerrank.com/danielroche10
+- Hackerrank: danielroche10
