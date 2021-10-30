@@ -20,6 +20,10 @@ _Junior Developer_
 - Used Node.js, Jest and Postman to update and test API endpoints. This improved functionality for the end user and enabled the company to gain further customer traction.
 - Used PostgreSQL knowledge to write tests for DB calls ensuring increased robustness of the database logic layer.
 
+**Coding and building projects** (May 2020 to Jan 2021)  
+
+- Spent time learning about coding and lots of other things. Built a full-stack project called |[Leyendo](https://cocky-easley-edf596.netlify.app/Sam%20Altman) which enables users to find their favourite essays from across the the internet.
+
 **itsu [grocery]** (Dec 2016 to Apr 2020)  
 _Supply Chain Executive & Supply Network Planner_
 
