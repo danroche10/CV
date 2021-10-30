@@ -1,6 +1,6 @@
 ## Dan Roche
 
-[Projects](#projects) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies) |
+[Projects](#projects) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies) |  [Contact](#contact) |
 
 In 2019, I became fascinated with the internet and the opportunities that it could present to people across the globe. During this time, I was also teaching myself SQL at work and loved using it to solve complex problems. I decided to marry these two interests and left my job to learn more about coding and build some interesting projects. This fascinating journey led me to work at a insurtech startup for three months and most recently to Makers Academy. At Makers I rigourously learnt the fundamentals of programming and built some exciting projects such as the ones listed below.
 ## Projects
@@ -16,31 +16,28 @@ In 2019, I became fascinated with the internet and the opportunities that it cou
 **By Bits** (Feb 2021 to June 2021)  
 _Junior Developer_
 
-- Built tools for pay-per-mile car insurance in a fast-moving start-up environment. Updated main Node.js APIs and wrote tests in Jest. Used Postman to test endpoints and visualise JSON responses.
-- Worked with React on the front-end, implementing user flows and managing state between each step. Made HTTP requests to the APIs and used JSON responses in user flow.
-- Used PostgreSQL to interact with the databases when necessary. Learnt about foreign key constraints, testing databases calls and different environments.
-- Other ad-hoc tasks included CSS changes, templating and content changes to company website.
-- Used github for version control and became familiar with branching, merging and pull requests.
-
+- Built tools for pay-per-mile car insurance in a fast-moving start-up environment. Used knowledge of React and HTTP protocol to create user flows and presented this work to the team.
+- Used Node.js, Jest and Postman to update and test API endpoints. This improved functionality for the end user and enabled the company to gain further customer traction.
+- Used PostgreSQL knowledge to write tests for DB calls ensuring increased robustness of the database logic layer.
 
 **itsu [grocery]** (Dec 2016 to Apr 2020)  
 _Supply Chain Executive & Supply Network Planner_
 
-- After teaching myself SQL, I introduced it into the business to create a sales dashboard, a new service level tracker and an invoice tracker. Resulted in many hours being saved per week across multiple teams.
-- Led weekly ‘demand and supply review’, challenging sales team on forecasting and driving actions. Worked closely with an external programmer to build a new automated production planner.
+- Created a suite of SQL-enabled reports including a sales dashboard, a new service level tracker and an invoice tracker. This highlighted my proactivity and ability to see tasks through to completion. The reports resulted in 5+ hours being saved per week across multiple teams.
+- Was given responsbility to lead weekly ‘demand and supply review’ as a result of my strong communication skills. Used responsibility to challenge sales team on forecasting and allocated actions. My leading the weekly meeting resulted in a 12% increase in forecast accuracy YoY.
 
-**Buzzhire** (Jan 2016 to Oct 2016)
+**Buzzhire (on-demand temporary staffing platform)** (Jan 2016 to Oct 2016) 
 _Operations Manager_
 
-- Buzzhire is an on-demand temporary staffing platform. Initially the role focused on client acquisition and building a new vertical, before evolving into client operations. Enhanced my sales skills and my ability to analyse and interpret data. 
-- Grew monthly revenue from zero to £5k per week during the first four months. Then achieved client retention of 70% MoM. Worked with CTO to implement new features such as variable pricing and geographical restrictions.
+- Launched a new vertical, growing monthly revenue from zero to £5k per week during the first four months. Then achieved client retention of 70% MoM. This showed my ability to meet challenging targets while working autonomously.
+- Led a project to implement geographical restrictions on the app as a result of customer feedback. Utilised collaborations skills and attention to detail to complete the project which resulted in sub 4* reviews decreasing by 11%.
 
 ## Education
 
 #### Makers Academy (June 2021 October 2021)
 - Became proficient in Ruby and Javascript completing a wide range of projects in both languages (both vanilla and within framworks).
 - Learnt about the core principles of OOP and became familiar with the four pillars. Used this knowledge when modelling and then building applications.
-- Followed a TDD approach when building applications using RSpec, Jasmine and Cypress for feature testing. Continuously sought feedback on: testing behaviour and not implementation, using private methods for implementation, dependency injection principle and isolating tests using mocks/spies.
+- Followed a TDD approach when building applications using RSpec, Jasmine and Cypress for feature testing. Continuously sought feedback on: testing behaviour and not implementation, encapsulation, SRP, dependency injection principle and isolating tests using mocks/spies.
 - Built Node.js backend from scratch for several projects solidfying my knowledge of MVC architecture. Did self-directed learning on separation of model into database logic and business logic. 
 - Spent a lot of time pair programming enabling improvement in communication when explaining code, thought process and bug fixing.
 
