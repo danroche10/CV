@@ -39,10 +39,10 @@ _Operations Manager_
 ## Education
 
 #### Makers Academy (June 2021 October 2021)
-- Became proficient in Ruby and Javascript completing a wide range of projects in both languages (both vanilla and within framworks).
+- Became proficient in Ruby and Javascript completing a wide range of projects in both languages (both vanilla and within frameworks).
 - Learnt about the core principles of OOP and became familiar with the four pillars. Used this knowledge when modelling and then building applications.
 - Followed a TDD approach when building applications using RSpec, Jasmine and Cypress for feature testing. Continuously sought feedback on: testing behaviour and not implementation, encapsulation, SRP, dependency injection principle and isolating tests using mocks/spies.
-- Built Node.js backend from scratch for several projects solidfying my knowledge of MVC architecture. Did self-directed learning on separation of model into database logic and business logic. 
+- Built Node.js backend from scratch for several projects solidifying my knowledge of MVC architecture. Did self-directed learning on separation of model into database logic and business logic. 
 - Spent a lot of time pair programming enabling improvement in communication when explaining code, thought process and bug fixing.
 
 #### University of Bath (2011 to 2015)
