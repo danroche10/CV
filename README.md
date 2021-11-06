@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Relevant Experience](#relevant-experience) | [Education](#education) | [Hobbies](#hobbies) |  [Contact](#contact) |
 
-In 2019, I became fascinated with the internet and the opportunities that it could present to people across the globe. During this time, I was also teaching myself SQL at work and loved using it to solve complex problems. I decided to marry these two interests and left my job to learn more about coding and build some interesting projects. This fascinating journey led me to work at a insurtech startup for three months and most recently to Makers Academy. At Makers I rigorously learnt the fundamentals of programming and built some exciting projects such as the ones listed below.
+In 2019, my coding journey began in earnest as I became enthralled by the opportunities presented by both the internet and database querying. A strange combination I know, but it was the desire to build things for other people and an intellectual fascination with SQL that propelled me into the world of software development. Since then, I have spent time building my own projects, working in the insurtech space and most recently learning about the beauty of TDD, OOP and lots more, at the Makers Academy. I am very excited to join a company where I can add value and learn from a great team.
         
 ## Relevant Experience
 
@@ -39,9 +39,9 @@ _Operations Manager_
 
 |Project        |Description                                           |Technologies              |
 |----------|------------------------------------------------------|----------------------------------------|
-|[chitter-v2](https://github.com/danroche10/chitter-v2)|Authenticated users can post, comment and like 'peeps'. .<br><br> Click [here](https://shrouded-savannah-60836.herokuapp.com/) for live version! | Node, Express, Jasmine, Cypress, JS |
-|[bowling-challenge-JS](https://github.com/danroche10/bowling-challenge-JS)|App scores a game of bowling including strikes, spares and perfect game | Javascript, Jasmine |
-|[bank-tech-test](https://github.com/danroche10/bank-tech-test)|Create acccount, deposit/withdraw money and print statement with balance | Javascript, Jasmine |
+|[chitter-v2](https://github.com/danroche10/chitter-v2)|A CRUD application that enables authenticated users to post, comment and like 'peeps'. Live heroku version [here](https://shrouded-savannah-60836.herokuapp.com/)<br><br> The app was built using TDD with Jasmine spies being used to isolate code. Researched best practice for how to structure model and decided to separate database and business logic. The project helped solidify my knowledge of the HTTP protocol, MVC architecture, Encapsulation, feature testing and deployment. | Built using Javascript, Express, Jasmine, Cypress, ejs and Node.js |
+|[bowling-challenge-JS](https://github.com/danroche10/bowling-challenge-JS)|A command-line application that scores a game of bowling including strikes, spares and perfect game.<br><br> Sought feedback multiple times from the Head of Coaching at Makers on this project. As a result I deepened my understanding of Encapsulation, SRP and code quality. In addition, I gained clarity on private implementation methods and why we should test behaviour rather than these methods.|Jasmine, Javascript|
+|[bank-tech-test](https://github.com/danroche10/bank-tech-test)|A command-line application that enables users to create an account, deposit/withdraw money and print statements with balance.<br><br> Again sought feedback multiple times from a Makers coach. Deepened understanding of Dependency Injection Principle and learnt best practice for instantiating a class in the method of another class with correct testing.<br><br> Coach feedback included “Overall this is a fantastic solution” and “You’ve shown good understanding of Separation of Concerns, testing Behaviour not State, test Isolation, Encapsulation, SRP and how to write JavaScript”. | Javascript, Jasmine |
 
 ## Education
 
@@ -59,6 +59,7 @@ As an avid runner, I have completed a marathon in 3 hours 13 minutes and a half-
 I spend a lot of my free time reading and review each book I read on [goodreads.](https://www.goodreads.com/review/list/60295249?shelf=read)
 
 ## Contact
+- E-mail: danielroche10@gmail.com
 - Github: danroche10
 - Twitter: @DanRoche01
 - Hackerrank: danielroche10
